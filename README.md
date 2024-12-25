@@ -17,11 +17,7 @@
 - Collaborate with like-minded developers and professionals to grow my expertise.
 
 ## 📬 Let's Connect!
-- 🌐 **GitHub**: [Your GitHub Profile URL]  
-- 📧 **Email**: [Your Email Address]  
+- 🌐 **GitHub**: []  
+- 📧 **Email**: [mohammedali35008547@gmail.com]  
 
-Feel free to check out my repositories and projects. I'm always open to collaboration and learning opportunities! 😊
 
----
-
-Thank you for stopping by! 💻✨
